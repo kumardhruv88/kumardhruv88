@@ -1,21 +1,12 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-██║  ██║███████║██████╔╝██║   ██║██║   ██║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝     ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+%7C+Deep+Learning+%7C+Generative+AI;LLM+Fine-Tuning+%7C+NLP+%7C+MLOps;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # Hi there, I'm Dhruv Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+%7C+Deep+Learning+%7C+Generative+AI;LLM+Fine-Tuning+%7C+NLP+%7C+MLOps;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <img src="https://komarev.com/ghpvc/?username=kumardhruv88&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kumardhruv88?label=Followers&style=social)](https://github.com/kumardhruv88)
+&nbsp;
+<img src="https://img.shields.io/github/followers/kumardhruv88?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
 
@@ -49,37 +40,30 @@ class DhruvKumar:
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🤖 ML / AI Frameworks
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🧠 NLP
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-
-### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ MLOps & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -95,16 +79,6 @@ class DhruvKumar:
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kumardhruv88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumardhruv88&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -135,7 +109,7 @@ class DhruvKumar:
 
 <div align="center">
 
-> *"The best way to understand intelligence is to build it."*
+*"The best way to understand intelligence is to build it."*
 
 ⭐ **Open to learning, collaboration, and meaningful problem-solving** ⭐
 
