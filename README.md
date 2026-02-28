@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=DHRUV%20KUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=58&descColor=a0d8ff&animation=fadeIn" width="100%"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+%7C+Deep+Learning+%7C+Generative+AI;LLM+Fine-Tuning+%7C+NLP+%7C+MLOps;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# Hi there, I'm Dhruv Kumar 👋
+### Hi there, I'm Dhruv Kumar 👋
 
 <img src="https://komarev.com/ghpvc/?username=kumardhruv88&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
