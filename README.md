@@ -1,84 +1,129 @@
+<!-- visitor@github:~$ ssh dhruv@nsut.edu -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=DHRUV%20KUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=58&descColor=a0d8ff&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+%7C+Deep+Learning+%7C+Generative+AI;LLM+Fine-Tuning+%7C+NLP+%7C+MLOps;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-### Hi there, I'm Dhruv Kumar 👋
-
-<img src="https://komarev.com/ghpvc/?username=kumardhruv88&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/kumardhruv88?label=Followers&style=social" alt="GitHub Followers" />
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ 
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+```
 
 </div>
 
----
+```
+visitor@github:~$ ssh dhruv@nsut.edu
+Last login: always, from everywhere
 
-## 🧑‍💻 About Me
-
-```python
-class DhruvKumar:
-    def __init__(self):
-        self.name        = "Dhruv Kumar"
-        self.degree      = "B.Tech Computer Science — 3rd Year @ NSUT"
-        self.location    = "India 🇮🇳"
-        self.achievement = "🏆 Smart India Hackathon 2025 Winner"
-        self.interests   = ["Machine Learning", "Deep Learning", "NLP",
-                            "Generative AI", "LLMs", "MLOps"]
-
-    def currently(self):
-        return [
-            "🔬 Deepening expertise in ML, DL & Large Language Models",
-            "⚙️  Learning MLOps for production-grade model deployment",
-            "💡 Solving DSA problems on LeetCode",
-            "📦 Building real-world ML projects with Kaggle datasets",
-        ]
-
-    def goal(self):
-        return "Build AI systems that solve real problems — reliably and at scale."
+dhruv@workstation
+-----------------
+OS          NsutOS (rolling release, deadline-driven)
+Host        Netaji Subhas University of Technology
+Kernel      B.Tech CSE · 3rd Year · 2023–2027
+Shell       /bin/build-ship-repeat
+Resolution  research × production
+Uptime      since first torch.backward()
+Locale      new-delhi, IN
+GPU         cuda:0 · dual T4 experience
+Memory      transformers loaded · context window: sufficient
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+```
+dhruv@workstation:~$ whoami
+Dhruv Kumar — AI/ML engineer who ships production systems.
+I build things that learn, things that scale,
+and occasionally things that win national hackathons.
+```
 
 ---
 
-## 📊 GitHub Stats
+```
+dhruv@workstation:~$ lsmod | sort -k2 -r
+
+Module              Size     Used by
+python              ████████  everything_below
+pytorch             ████████  transformers, cnn_rnn, finetuning
+transformers        ███████   nlp, llm_apps, clinical_ai
+langchain           ███████   agents, rag_pipelines, memory
+fastapi             ██████    backends, model_serving
+react               ██████    frontends, fullstack_apps
+nextjs              ██████    ssr, production_deployments
+scikit_learn        █████     feature_engineering, classic_ml
+tensorflow          █████     deep_learning, model_training
+langraph            █████     multi_agent, agentic_pipelines
+faiss               ████      vector_search, similarity
+node_express        ████      rest_apis, scalable_backends
+mongodb             ████      document_store
+docker              ███       containerized_deploys
+javascript          ███       the_glue
+
+# compiled into kernel at boot:
+# numpy · pandas · matplotlib · jupyter · huggingface · git · linux
+```
+
+---
+
+```
+dhruv@workstation:~$ dhruv render --graph=architecture
+rendering pipeline... done. output attached below.
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         ML SYSTEM DESIGN                        │
+├──────────────┬──────────────────────┬──────────────┬───────────┤
+│   ingress    │    cognition core    │   delivery   │  egress   │
+│              │                      │   runtime    │           │
+│  problem  ──►│  feature engineering │  FastAPI  ──►│  Vercel   │
+│  datasets    │  ml / deep learning  │  REST APIs   │  Docker   │
+│  raw data    │  transformers · llms │  React UI    │  HF Space │
+└──────────────┴──────────────────────┴──────────────┴───────────┘
+```
+
+---
+
+```
+dhruv@workstation:~$ git log --graph --all --oneline
+rendering commit topology... done.
+```
+
+```
+* main        ●────●────●────────────────────────●  [HEAD: SIH WINNER + MindLens]
+              │                                   │
+* ml_core     ●──────●────●────●────●─────────────┘
+              │  classical_ml  transformers  llm_apps
+              │
+* full_stack  ●───────────●────●──────────────────
+                       react   nextjs  fastapi
+```
+
+---
+
+```
+dhruv@workstation:~$ grep -iE "winner|shipped|active" /var/log/achievements.log
+
+[ACH-001]  Smart India Hackathon 2025          ► WINNER — national level, 1000+ teams
+[ACH-002]  Amazon ML Summer School 2025        ► TOP 2% — rank 230 / 10,000+ participants
+[ACH-003]  VoyageHack 3.0                      ► FINALIST — SafarX (LangGraph + Gemini)
+[ACH-004]  MindLens Clinical NLP               ► SHIPPED — 91.5% + 93.37% dual-model accuracy
+[ACH-005]  Agent4Target · AUROC 0.9967         ► SHIPPED — open source ML pipeline
+[ACH-006]  NanoMind 30M GPT from scratch       ► SHIPPED — pretrained + instruction-tuned
+```
+
+---
+
+```
+dhruv@workstation:~$ htop --user=kumardhruv88 --mode=github
+```
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumardhruv88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardhruv88&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kumardhruv88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -86,34 +131,54 @@ class DhruvKumar:
 
 ---
 
-## 📈 Contribution Activity
+```
+dhruv@workstation:~$ cat /proc/dhruv/focus
 
-<div align="center">
-
-[![Dhruv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumardhruv88&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+llm_apps        [ACTIVE]   clinical nlp · agentic pipelines · rag
+production      [ACTIVE]   models that survive contact with real users
+fullstack       [ACTIVE]   fastapi + nextjs + vercel end-to-end
+research        [ALWAYS]   reading papers, then implementing them
+```
 
 ---
 
-## 🤝 Let's Connect
+```
+dhruv@workstation:~$ curl -s https://api.dhruvkumar.dev/v1/contact | jq
+
+{
+  "status": 200,
+  "channels": {
+    "github":    "https://github.com/kumardhruv88",
+    "linkedin":  "https://www.linkedin.com/in/dhruv-kumar-64752327a/",
+    "email":     "Kumardhruv2308@gmail.com",
+    "kaggle":    "https://www.kaggle.com/dhruvkumar11",
+    "leetcode":  "https://leetcode.com/dhruv_0808"
+  },
+  "open_to":   ["ai/ml internships", "research collaborations", "hackathon teams"],
+  "latency":   "low"
+}
+```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-blush-sigma-cnmnqaewtr.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kumar-64752327a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhruv_0808)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhruvkumar11)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumardhruv88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kumar-64752327a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhruvkumar11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhruv_0808)
 
 </div>
 
 ---
 
+```
+dhruv@workstation:~$ exit
+logout
+Connection to dhruvkumar.dev closed.
+```
+
 <div align="center">
 
-*"The best way to understand intelligence is to build it."*
-
-⭐ **Open to learning, collaboration, and meaningful problem-solving** ⭐
+*build what matters · ship what works · learn what's next*
+*no emojis were harmed in the making of this profile*
 
 </div>
